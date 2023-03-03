@@ -1,4 +1,4 @@
-package com.example;
+package com.example.other;
 
 import java.util.Comparator;
 import java.util.HashMap;
